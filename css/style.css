@@ -1,0 +1,27 @@
+img {
+  width: 15rem;
+}
+body {
+  background-image: url(/img/cactus.jpg);
+  background-position: right;
+  background-size: cover;
+  background-repeat: none;
+  background-attachment: fixed;
+}
+
+.nav-link:hover {
+  color: green;
+}
+
+.nav-link {
+  color: rgb(12, 12, 12);
+  margin-left: 2.5rem;
+}
+
+h1 {
+  color: rgb(12, 12, 12);
+  font-size: 5rem;
+}
+p {
+  color: rgb(12, 12, 12);
+}
