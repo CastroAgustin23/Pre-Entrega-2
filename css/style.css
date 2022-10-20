@@ -2,7 +2,7 @@ img {
   width: 15rem;
 }
 body {
-  background-image: url(/img/cactus.jpg);
+  background-image: url(../img/cactus.jpg);
   background-position: right;
   background-size: cover;
   background-repeat: none;
