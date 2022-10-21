@@ -14,21 +14,13 @@ body {
 }
 
 .nav-link {
-  color: rgb(12, 12, 12);
   margin-left: 2.5rem;
 }
 
 h1 {
-  color: rgb(12, 12, 12);
+  color: rgb(8, 8, 8);
   font-size: 5rem;
 }
 p {
-  color: rgb(12, 12, 12);
-}
-
-.card {
-  width: 10rem;
-}
-.card-img-top {
-  width: 100%;
+  color: rgb(7, 7, 7);
 }
