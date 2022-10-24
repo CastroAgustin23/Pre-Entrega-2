@@ -12,6 +12,9 @@ body {
 .nav-link:hover {
   color: green;
 }
+.iconos a {
+  text-decoration: none;
+}
 
 .nav-link {
   margin-left: 2.5rem;
