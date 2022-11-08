@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 15rem;
+}
+body {
+  background-image: url("../img/cactus.jpg");
+  background-position: right;
+  background-size: cover;
+  background-repeat: none;
+  background-attachment: fixed;
+}

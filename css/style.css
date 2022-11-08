@@ -1,6 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 img {
   width: 15rem;
 }
+
 body {
   background-image: url("../img/cactus.jpg");
   background-position: right;
@@ -9,35 +16,35 @@ body {
   background-attachment: fixed;
 }
 
-.nav-link:hover {
-  color: green;
+.nav-link {
+  margin-left: 2.5rem;
 }
+.nav-link:hover {
+  color: rgb(6, 165, 14);
+}
+
 .iconos a {
   text-decoration: none;
 }
 
-.nav-link {
-  margin-left: 2.5rem;
-}
-
-h1 {
+.container h1 {
   color: rgb(8, 8, 8);
   font-size: 5rem;
 }
-p {
-  color: rgb(7, 7, 7);
+.container p {
+  color: rgb(8, 8, 8);
 }
+
 .boton:hover {
   transform: scale(1.2);
 }
 
 .iconos svg {
+  margin-left: 1rem;
   color: rgb(8, 8, 8);
 }
 .iconos svg:hover {
   transform: scale(1.2);
 }
 
-.iconos a {
-  margin-left: 1.5rem;
-}
+/*# sourceMappingURL=style.css.map */

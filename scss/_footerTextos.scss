@@ -1,0 +1,25 @@
+.iconos a {
+  text-decoration: none;
+}
+
+.container {
+  h1 {
+    color: $primary-color;
+    font-size: 5rem;
+  }
+  p {
+    color: $primary-color;
+  }
+}
+
+.boton:hover {
+  transform: scale(1.2);
+}
+
+.iconos svg {
+  margin-left: 1rem;
+  color: $primary-color;
+  &:hover {
+    transform: scale(1.2);
+  }
+}
